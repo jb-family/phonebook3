@@ -137,7 +137,6 @@ public class PhoneController {
 		// PhoneDao phoneDao = new PhoneDao();
 		// int count = phoneDao.personInsert(personVo);
 		// System.out.println(count);
-		phoneService.insert(personVo);
 
 		// 리다이렉트
 		// 리스트로 리다이텍트 시킬 예정
